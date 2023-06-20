@@ -39,8 +39,6 @@ The notebook will display the predicted sentiment (positive or negative) for the
 + Modify the comp variable with the desired company's ticker symbol (e.g., 'AAPL' for Apple Inc.) obtained from Yahoo Finance.
 + Run the notebook cells one by one to execute the stock price prediction tasks.
 + The notebook will retrieve historical stock price data for the specified company and generate charts.
-+ The notebook will predict whether the stock price will increase or decrease based on the opening price of each week.
-+ The notebook will display the weekly charts and the binary predictions for stock price increase or decrease.
 
 ### Twitter Data Analysis:
 + Open the "Tweets.ipynb" Jupyter Notebook.
