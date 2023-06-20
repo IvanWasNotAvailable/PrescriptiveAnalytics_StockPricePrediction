@@ -21,7 +21,7 @@ The implementation showcases a step-by-step process of collecting historical sto
 
 2. **SentimentAnalysis.ipynb:** This notebook extends the sentiment analysis to analyze the sentiment of specific text and a set of tweets. It uses the trained LinearSVC model from the Sentiment140 dataset to predict sentiment labels for the provided text and tweets.
 
-3. **StockPrices.ipynb:** This notebook focuses on retrieving historical stock price data from Yahoo Finance for a specific company (BASF) using the yfinance library. It prepares the data and visualizes weekly stock price charts.
+3. **StockPrices.ipynb:** This notebook focuses on retrieving historical stock price data from Yahoo Finance for a specific company (current version: BASF) using the yfinance library. It prepares the data and visualizes weekly stock price charts.
 
 4. **Tweets.ipynb:** This notebook demonstrates how to authenticate with the Twitter API using Tweepy and perform tasks such as user lookup and retrieving user information.
 
