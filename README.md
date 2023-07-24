@@ -4,7 +4,7 @@ This repository contains the implementation of the thesis titled "Stock Price Pr
 
 ## Table of Contents
 
-- [Instroduction](#introduction)
+- [Introduction](#introduction)
 - [Notebook Descriptions](#notebook-descriptions)
 - [Usage](#usage)
 - [Contact](#contact)
